@@ -12,6 +12,9 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 [![AndroidX](https://img.shields.io/badge/AndroidX-supported-brightgreen)](#requirements)
 
+![SCARF](https://api.scarf.sh/v2/packages/Tutorialsandroid/2554cba1-d866-4785-a051-26b6d99acceb/commercial-users-badge)
+![SCARF](https://api.scarf.sh/v2/packages/Tutorialsandroid/2554cba1-d866-4785-a051-26b6d99acceb/downloads-badge)
+
 Select files, folders, or both from device storage with single-selection and multi-selection support.
 
 </div>
